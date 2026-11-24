@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "z:\\HelloWorkshop\\HelloWorkshop.csproj": {}
+    "Z:\\HelloWorkshop\\HelloWorkshop.csproj": {}
   },
   "projects": {
-    "z:\\HelloWorkshop\\HelloWorkshop.csproj": {
+    "Z:\\HelloWorkshop\\HelloWorkshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "z:\\HelloWorkshop\\HelloWorkshop.csproj",
+        "projectUniqueName": "Z:\\HelloWorkshop\\HelloWorkshop.csproj",
         "projectName": "HelloWorkshop",
-        "projectPath": "z:\\HelloWorkshop\\HelloWorkshop.csproj",
+        "projectPath": "Z:\\HelloWorkshop\\HelloWorkshop.csproj",
         "packagesPath": "C:\\Users\\s37405\\.nuget\\packages\\",
-        "outputPath": "z:\\HelloWorkshop\\obj\\",
+        "outputPath": "Z:\\HelloWorkshop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37405\\AppData\\Roaming\\NuGet\\NuGet.Config"
