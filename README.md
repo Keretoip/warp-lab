@@ -14,3 +14,6 @@ dotnet run
 
 Zespół: Warsztat Programisty
 
+Continuous Integration
+
+coś zrobiłem i dalej działa
